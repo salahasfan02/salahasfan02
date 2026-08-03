@@ -42,10 +42,66 @@ Biometric, end-to-end encrypted file transfer — Face ID / Touch ID / Windows H
 
 `Next.js` `TypeScript` `WebAuthn`
 
-### 🔗 [Secure-Link](https://github.com/Salahasfan02/Secure-Link)
-End-to-end encrypted file sharing with biometric-only unlock — no passwords, ever.
+### 🗂️ Asset Management Platform *(private)*
+Multi-tenant asset management system with RBAC, dynamic asset attributes, and Mermaid-based relationship visualization.
 
-`TypeScript` `E2E Encryption`
+`Blazor Server` `.NET 8` `EF Core`
+
+### 📅 BMO — Bromley Meetings Organizer *(private)*
+Full-stack meeting ops platform — RSVP + auto-grouping, Slido-style live presenter Q&A, PowerPoint import/export, real-time dashboards over SSE.
+
+`ASP.NET Core` `Azure SQL` `SSE`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Easy Read Converter *(private)*
+Converts documents into Easy Read format for people with learning disabilities, running fully on local AI via Ollama.
+
+`Python` `Streamlit` `Ollama`
+
+### 🧑‍🤝‍🧑 Face Recognition Toolkit *(private)*
+Real-time face recognition built on OpenCV — loads known-face encodings and identifies people live from video.
+
+`Python` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 SML Demo Mode (.NET) *(private)*
+Starter / Mover / Leaver workflow automation with an HR-to-Entra sync simulator and an Admin Centre for per-store required fields.
+
+`ASP.NET Core` `Razor Pages`
+
+### 🧑‍💼 HR Agent *(private)*
+Conversational AI agent answering employee HR questions — policies, leave, benefits — directly.
+
+`Copilot Studio` `Power Automate` `Azure`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ IT Agent *(private)*
+AI agent that answers IT support questions and raises tickets automatically on the user's behalf.
+
+`Copilot Studio` `Power Automate` `ITSM`
+
+### 💰 Finance Agent *(private)*
+Analyses organisational financial data on request and generates visual reports.
+
+`Power BI` `DAX` `Azure`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Power BI Process Automation *(private)*
+Replaces manual, repetitive reporting and data-entry work across the organisation with self-updating dashboards and flows.
+
+`Power BI` `Power Automate`
 
 </td>
 </tr>
