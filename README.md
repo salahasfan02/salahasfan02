@@ -6,7 +6,8 @@
 
 I design and ship privacy-first software — mostly local AI that runs entirely on your own machine, no cloud, no accounts, no data leaving the device. Based in London.
 
-[![Portfolio](https://img.shields.io/badge/⭐-Flagship_projects_below-0d6e6e?style=for-the-badge)](#-flagship-projects)
+[![Portfolio](https://img.shields.io/badge/🌐-salahasfan02.github.io-c2410c?style=for-the-badge)](https://salahasfan02.github.io)
+[![Flagship projects](https://img.shields.io/badge/⭐-Flagship_projects_below-0d6e6e?style=for-the-badge)](#-flagship-projects)
 
 </div>
 
