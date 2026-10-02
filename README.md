@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="180" src="https://i.giphy.com/IKFVtPf8jP6KJH16dB.webp"  />
-
-###
-
 <p align="left">AI & automation engineer by day 🤖 · building local-first, privacy-first AI tools by night 🌙<br><br>
 I build software where the model runs on <b>your</b> hardware, your data stays in a folder you control, and nothing leaves the device.<br><br>
 My portfolio: https://salahasfan02.github.io</p>
