@@ -13,6 +13,7 @@ My portfolio: https://salahasfan02.github.io</p>
 <p align="left">
   <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20Azure-0078D4?style=for-the-badge" alt="☁️ Azure" />
   <img src="https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20SQL-CC2927?style=for-the-badge" alt="🗄️ SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Visual%20Studio-5C2D91?style=for-the-badge" alt="💻 Visual Studio" />
   <img src="https://img.shields.io/badge/%E2%9A%A1%20Power%20Platform-742774?style=for-the-badge" alt="⚡ Power Platform" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
